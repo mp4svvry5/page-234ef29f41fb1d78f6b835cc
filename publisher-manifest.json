@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "29bc90d649fdf8a493b12b1e",
+  "owner": "mp4svvry5",
+  "repo": "page-234ef29f41fb1d78f6b835cc",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "234ef29f41fb1d78f6b835cc",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9778fdad6c57285f29adeb26dbc688d9d1d3f9b90bfb6d16b963b17bf42674c6",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN加速器为您提供稳定高速的网络加速服务，官方客户端下载，助您畅享无界网络。",
+          "AI_DESCRIPTION": "快柠檬VPN加速器为您提供稳定高速的网络加速服务，官方客户端下载，助您畅享无界网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #F5F5DC;\n            --forest: #228B22;\n            --dark: #2F4F4F;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background-color: var(--beige);\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        header {\n            background-color: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 0;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--forest);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n            list-style: none;\n        }\n        .nav-links a {\n            color: #333;\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .nav-links a:hover {\n            color: var(--forest);\n        }\n        .hero {\n            background-color: var(--forest);\n            color: white;\n            padding: 4rem 0;\n            text-align: center;\n        }\n        .hero h1 {\n            font-size: 2.5rem;\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.2rem;\n            margin-bottom: 2rem;\n        }\n        .btn {\n            display: inline-block;\n            background-color: var(--forest);\n            color: white;\n            padding: 0.75rem 1.5rem;\n            text-decoration: none;\n            border-radius: 4px;\n            font-weight: bold;\n            transition: background 0.3s;\n        }\n        .btn:hover {\n            background-color: #1e7a1e;\n        }\n        section {\n            padding: 3rem 0;\n        }\n        h2 {\n            color: var(--forest);\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n        }\n        h3 {\n            color: var(--dark);\n            font-size: 1.5rem;\n            margin-bottom: 1rem;\n        }\n        .intro-text {\n            font-size: 1.1rem;\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .staggered {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 2rem;\n            align-items: center;\n        }\n        .staggered > div {\n            flex: 1;\n            min-width: 300px;\n        }\n        .left {\n            order: 1;\n        }\n        .right {\n            order: 2;\n        }\n        .steps {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n            gap: 1.5rem;\n        }\n        .step {\n            background: white;\n            padding: 1.5rem;\n            border-radius: 8px;\n            box-shadow: 0 4px 8px rgba(0,0,0,0.05);\n            text-align: center;\n        }\n        .step-number {\n            background-color: var(--forest);\n            color: white;\n            width: 40px;\n            height: 40px;\n            border-radius: 50%;\n            display: inline-flex;\n            align-items: center;\n            justify-content: center;\n            margin-bottom: 1rem;\n            font-weight: bold;\n        }\n        .plans-section {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n        }\n        .plan-card h3 {\n            text-align: center;\n            padding: 1rem;\n            border-bottom: 1px solid #eee;\n        }\n        .featured {\n            border: 2px solid var(--forest);\n            position: relative;\n        }\n        .featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: var(--forest);\n            color: white;\n            padding: 2px 10px;\n            border-radius: 20px;\n            font-size: 0.8rem;\n        }\n        .plan-features {\n            padding: 1rem;\n        }\n        .plan-features ul {\n            list-style: none;\n            padding: 0;\n        }\n        .plan-features li {\n            padding: 0.5rem 0;\n            border-bottom: 1px solid #eee;\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1.25rem;\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .footer {\n            background-color: var(--dark);\n            color: white;\n            padding: 2rem 0;\n            text-align: center;\n        }\n        .footer a {\n            color: #ddd;\n        }\n        @media (max-width: 768px) {\n            .nav-links {\n                flex-direction: column;\n                gap: 1rem;\n            }\n            .hero h1 {\n                font-size: 2rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav class=\"container\">\n            <div class=\"logo\">快柠檬</div>\n            <ul class=\"nav-links\">\n                <li><a href=\"#intro\">首页</a></li>\n                <li><a href=\"#plans\">套餐</a></li>\n                <li><a href=\"#download\">下载</a></li>\n                <li><a href=\"#faq\">FAQ</a></li>\n            </ul>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <div class=\"container\">\n                <h1>快柠檬 VPN 加速器</h1>\n                <p>稳定高速，畅享无界网络</p>\n                <a href=\"#download\" class=\"btn\">立即下载客户端</a>\n            </div>\n        </section>\n        <section id=\"intro\">\n            <div class=\"container\">\n                <div class=\"staggered\">\n                    <div class=\"left\">\n                        <h2>品牌简介</h2>\n                        <p class=\"intro-text\">快柠檬VPN加速器是一款专业的网络加速工具，旨在为您提供快速稳定、安全可靠的上网体验。无论是在家办公、娱乐休闲还是日常浏览，快柠檬都能让您的网络畅通无阻。</p>\n                    </div>\n                    <div class=\"right\">\n                        <h3>使用场景</h3>\n                        <ul>\n                            <li>✓ 解锁流媒体平台</li>\n                            <li>✓ 游戏网络加速</li>\n                            <li>✓ 科学上网</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <section id=\"config\">\n            <div class=\"container\">\n                <h2>配置流程</h2>\n                <div class=\"steps\">\n                    <div class=\"step\">\n                        <div class=\"step-number\">1</div>\n                        <h3>访问官网</h3>\n                        <p>前往快柠檬官方网站，找到下载客户端按钮。</p>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">2</div>\n                        <h3>下载安装</h3>\n                        <p>点击下载，完成客户端的安装过程。</p>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">3</div>\n                        <h3>注册账号</h3>\n                        <p>使用邮箱或手机号完成账号注册。</p>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">4</div>\n                        <h3>选择节点</h3>\n                        <p>在客户端中选择合适的加速节点。</p>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">5</div>\n                        <h3>一键连接</h3>\n                        <p>点击连接，即可享受高速网络加速。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <div class=\"container\">\n                <h2>热门套餐</h2>\n                {{PLANS_HTML}}\n            </div>\n        </section>\n        <section id=\"clients\">\n            <div class=\"container\">\n                <h2>客户信赖</h2>\n                {{CLIENTS_HTML}}\n                <p>已有数万用户选择快柠檬，提升网络体验</p>\n            </div>\n        </section>\n        <section id=\"faq\">\n            <div class=\"container\">\n                <h2>常见问题</h2>\n                <div class=\"faq\">\n                    <details>\n                        <summary>什么是快柠檬VPN加速器？</summary>\n                        <p>快柠檬VPN是一款专业的网络加速器，致力于为用户提供稳定高速的连接服务，让您畅享无障碍网络生活。</p>\n                    </details>\n                    <details>\n                        <summary>如何下载客户端？</summary>\n                        <p>请前往官网首页，点击下载按钮，按照安装向导完成客户端安装，启动后登录您的账号即可。</p>\n                    </details>\n                    <details>\n                        <summary>支持哪些设备？</summary>\n                        <p>快柠檬支持多平台，包括Windows、macOS、Android、iOS等，适用于个人电脑、手机等多种设备。</p>\n                    </details>\n                    <details>\n                        <summary>如何选择套餐？</summary>\n                        <p>根据您的使用需求选择基础版、旗舰版或团队版套餐，多种规格满足不同用户的使用场景。</p>\n                    </details>\n                    <details>\n                        <summary>售后服务如何？</summary>\n                        <p>我们提供在线支持，专业团队快速响应您的任何问题，确保您的使用无忧。</p>\n                    </details>\n                </div>\n            </div>\n        </section>\n    </main>\n    <footer class=\"footer\">\n        <div class=\"container\">\n            <p>© 快柠檬VPN 2024 所有权利保留 | <a href=\"#download\">官网下载</a> | <a href=\"#faq\">FAQ</a></p>\n            <p>友情链接：<a href=\"#\">机场订阅</a></p>\n        </div>\n    </footer>\n\n",
+          "hash": "399f5995e68cc142f0ebbad3cbb0ee1036840c51d1b75e5dd85d553d4906ef05",
+          "seo": {
+            "title": "快柠檬 VPN 加速器 | 官网下载 | 客户端下载",
+            "keywords": "快柠檬VPN, VPN加速器, 客户端下载, 机场, 网络加速",
+            "description": "快柠檬VPN加速器为您提供稳定高速的网络加速服务，官方客户端下载，助您畅享无界网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qgycbmy.cn",
+    "host": "home.qgycbmy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "qgycbmy.cn",
+      "url": "https://qgycbmy.cn/",
+      "label": "fnf",
+      "apex": "qgycbmy.cn",
+      "kind": null,
+      "identity": "kbxmsy/page-4f52956c230e3b518b1d6b69"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c04af67e57dee3bcc741c6b6df245437720c5119e0e78ee1e109b58266e4bb2c",
+    "sitemap.xml": "07b0af47dbb465e64dc3c5d4c90d63a45fa71cbfce321b680fd79cbba2f17d11",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b07ea10144e278557b089a7e4fdb5a0a0de5bcd31ed76524764abc4c4aa895cf",
+    "robots.txt": "6bf96c99fcbc70673280a2af5e951896accf8a16b8df25bf190ea0e09b97a26a",
+    "e18c5db41731c30418be3ad17332973f.txt": "755249f3d032312d3d50e7c96b8595da258ba66587b53bbd1982f363eceea61a"
+  },
+  "revision": "9d48ca0c93b01dfc82255d27d136cdc9973cda0312a3e19d621baf84b88f304c"
+}
